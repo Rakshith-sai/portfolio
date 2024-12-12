@@ -3,7 +3,7 @@
 ![Screenshot 2024-12-12 100110](https://github.com/user-attachments/assets/9fff184b-5d5e-4ba3-a254-aec6ba7ae90a)
 
 
-## You Learn:
+## Learnt:
 + react js hooks
 + folder structure
 + tailwind css
