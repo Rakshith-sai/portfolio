@@ -1,13 +1,8 @@
-![MacBook Air - 2 (3)](https://user-images.githubusercontent.com/75136330/203812467-8b00176d-9d31-4c09-86c0-8b82b8c661eb.png)
-![127 0 0 1_5173_ (1)](https://user-images.githubusercontent.com/75136330/203812531-baeb4957-5c7d-4222-a07a-2805b278bdbf.png)
+![Screenshot 2024-12-12 100055](https://github.com/user-attachments/assets/dd424f4a-679f-41c0-af4c-dd7f4a97fce0)
 
-# React Portfolio 2
-### Vite + React + tailwind
+![Screenshot 2024-12-12 100110](https://github.com/user-attachments/assets/9fff184b-5d5e-4ba3-a254-aec6ba7ae90a)
 
-```bash 
-npm i
-npm run dev
-```
+
 ## You Learn:
 + react js hooks
 + folder structure
@@ -18,15 +13,6 @@ npm run dev
 + email js
 + aos scroll animation
 + and more....
-
-## youtube video link
-[Watch now](https://youtu.be/YpFK4hUZ-NM)
-
-## live preview link
-[See Now](https://codeaprogram-portfolio.web.app/)
-
-## Startup repository link
-[Repository](https://github.com/Sridhar-C-25/React_portfolio_2_startup)
 
 ## packages:
 + [tailwind css](https://tailwindcss.com/docs/installation)
